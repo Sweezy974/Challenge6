@@ -1,0 +1,165 @@
+body{
+  /*font-family: "Open Sans";*/
+
+}
+a:hover{
+  text-decoration: none;
+}
+
+nav {
+  background-color: #F8F8F8;
+
+}
+
+#id{
+  opacity: 1;
+  list-style: none;
+  text-decoration: none;
+  font-weight:normal;
+  color: grey;
+}
+nav a{
+  opacity: 1;
+  list-style: none;
+  text-decoration: none;
+  font-weight:normal;
+  color: grey;
+  text-decoration: none;
+
+
+}
+
+#landingpage {
+  background-repeat: no-repeat;
+  width:100%;
+  height: 100%;
+  text-align: center;
+  z-index: 1;
+}
+#landingpage img{
+  position: absolute;
+}
+
+.h11{
+  color: #F8F8F8;
+  position:relative;z-index:10;
+  text-shadow: 1px 1px 2px black;
+  font-size: 42px;
+  padding-top: 167px;
+}
+h3{
+  color: #F8F8F8;
+  position:relative;z-index:10;
+  text-shadow: 1px 1px 2px black;
+  font-size: 16px;
+  border-left: 1px solid #CCC;
+}
+hr{
+  border-top: 1px solid #AAA;
+  position: relative;
+  z-index: 10;
+  width: 261px;
+}
+
+.boutton1{
+  position: relative;
+  z-index: 10;
+  border-radius: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+  background-color: white;
+}
+
+.boutton1 a{
+    color: #333333;
+    position: relative;
+    z-index: 10;
+    text-decoration: none;
+
+}
+#premiercontenu{
+  display: inline-block;
+  background-color: #f8f8f8;
+}
+
+.h21{
+  color: black;
+  margin-top: 200px;
+  font-size: 25px;
+  display: block;
+}
+
+p{
+  margin-top: 15px;
+}
+
+.ipad{
+margin-top: 200px;
+margin-bottom: 30px;
+}
+
+.2ehr{
+  border-top: 1px solid #AAA;
+  width: 261px;
+}
+
+.dog{
+  margin-top: 40px;
+}
+.h22{
+  margin-top: 40px;
+}
+
+.p2{
+
+}
+
+#troiscontenu{
+  background-color: #f8f8f8;
+}
+
+.phone{
+  padding-bottom: 50px;
+}
+
+.h12{
+  color: #F8F8F8;
+  position:relative;z-index:10;
+  text-shadow: 1px 1px 2px black;
+  font-size: 36px;
+  padding-top: 50px;
+  text-align: left;
+}
+
+.boutton2{
+  position: relative;
+  z-index: 10;
+  border-radius: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+  background-color: white;
+  margin-top: 80px;
+
+}
+
+.boutton2 a{
+    color: #333333;
+    position: relative;
+    z-index: 10;
+    text-decoration: none;
+
+}
+
+footer{
+  margin-top: 850px;
+}
+footer ul li{
+  display: inline-block;
+  margin-right: 4px;
+}
+
+footer p{
+  font-size: 10px;
+  margin-left: 238px;
+  color: #333333;
+}
